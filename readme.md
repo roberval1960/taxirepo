@@ -1,5 +1,5 @@
 # Star Was Repo
 
 ![./DSC_0011.jpg](Teste imagem)
-Este repositorio serve e exemplo para o curso de Git e Github
+Este repositorio serve de exemplo para o curso de Git e Github
 
